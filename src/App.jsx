@@ -3,6 +3,7 @@ import HomePage from "./pages/HomePage";
 import Navbar from "./components/Navbar";
 import DataImage from "./data ";
 import { listTools, listProyek } from "./data ";
+import FileC from "../public/assets/CV_Krisna_.png";
 
 function App() {
   return (
@@ -28,7 +29,7 @@ function App() {
           </p>
           <div className="flex items-center sm:gap-4 gap-2">
             <a
-              href="/assets/CV_Krisna_.png_.png"
+              href={FileC}
               className="bg-violet-700 p-4 rounded-2xl hover:bg-violet-600"
               download="CV_KRISNANDA.png"
             >
