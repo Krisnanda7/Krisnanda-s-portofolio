@@ -28,7 +28,7 @@ function App() {
           </p>
           <div className="flex items-center sm:gap-4 gap-2">
             <a
-              href="/public/assets/CV_Krisna_.png"
+              href="/assets/CV_Krisna_.png_.png"
               className="bg-violet-700 p-4 rounded-2xl hover:bg-violet-600"
               download="CV_KRISNANDA.png"
             >
