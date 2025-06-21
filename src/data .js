@@ -11,20 +11,23 @@ import Tools2 from "/assets/tools/reactjs.png";
 import Tools3 from "/assets/tools/nextjs.png";
 import Tools4 from "/assets/tools/tailwind.png";
 import Tools5 from "/assets/tools/bootstrap.png";
+import Tools12 from "/assets/tools/laravel.png";
 import Tools6 from "/assets/tools/js.png";
 import Tools7 from "/assets/tools/nodejs.png";
 import Tools8 from "/assets/tools/github.png";
 import Tools9 from "/assets/tools/ai.png";
 import Tools10 from "/assets/tools/canva.png";
 import Tools11 from "/assets/tools/figma.png";
+import Tools13 from "/assets/tools/php.png";
+import Tools14 from "/assets/tools/photoshop.png";
 
 export const listTools = [
   {
     id: 1,
-    gambar: Tools1,
-    nama: "Visual Studio Code",
-    ket: "Code Editor",
-    dad: "100",
+    gambar: Tools12,
+    nama: "Laravel",
+    ket: "PHP Framework",
+    dad: "1200",
   },
   {
     id: 2,
@@ -77,17 +80,17 @@ export const listTools = [
   },
   {
     id: 9,
-    gambar: Tools9,
-    nama: "Adobe Illustrator",
-    ket: "Design App",
+    gambar: Tools13,
+    nama: "Php",
+    ket: "Language",
     dad: "900",
   },
   {
     id: 10,
-    gambar: Tools10,
-    nama: "Canva",
-    ket: "Design App",
-    dad: "1000",
+    gambar: Tools1,
+    nama: "Visual Studio Code",
+    ket: "Code Editor",
+    dad: "100",
   },
   {
     id: 11,
@@ -95,6 +98,27 @@ export const listTools = [
     nama: "Figma",
     ket: "Design App",
     dad: "1100",
+  },
+  {
+    id: 12,
+    gambar: Tools10,
+    nama: "Canva",
+    ket: "Design App",
+    dad: "1000",
+  },
+  {
+    id: 13,
+    gambar: Tools9,
+    nama: "Adobe Illustrator",
+    ket: "Design App",
+    dad: "900",
+  },
+  {
+    id: 14,
+    gambar: Tools14,
+    nama: "Photoshop",
+    ket: "Design App",
+    dad: "1000",
   },
 ];
 
@@ -138,7 +162,7 @@ export const listProyek = [
     id: 5,
     gambar: Proyek5,
     nama: "Website Wedding Package",
-    tools: ["HTML", "CSS", "Javascript", "Bootsrap"],
+    tools: ["HTML", "Javascript", "Bootsrap", "Laravel", "Filament"],
     dad: "600",
   },
   // {

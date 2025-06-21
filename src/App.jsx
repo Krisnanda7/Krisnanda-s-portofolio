@@ -179,14 +179,15 @@ function App() {
                     </p>
                   ))}
                 </div>
-                <div className="mt-8 text-center">
+                {/* link a href */}
+                {/* <div className="mt-8 text-center">
                   <a
                     href="#"
                     className="bg-violet-700 p-3 rounded-lg block border border-zinc-600 hover:bg-violet-600"
                   >
                     Lihat Website
                   </a>
-                </div>
+                </div> */}
               </div>
             </div>
           ))}
