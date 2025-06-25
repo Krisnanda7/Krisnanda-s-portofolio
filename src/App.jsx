@@ -56,7 +56,7 @@ function App() {
       {/* About Section */}
       <div className="tentang mt-32 py-10" id="tentang">
         <div
-          className="xl:w-2/3 lg:w-3/4 w-full mx-auto p-7 bg-zinc-800 rounded-lg animate__animated animate__fadeInUp animate__delay-2s"
+          className="xl:w-2/3 lg:w-3/4 w-full mx-auto p-7 bg-zinc-800 rounded-lg animate__animated animate__fadeInUp animate__delay-3s"
           data-aos="fade-up"
           data-aos-duration="1000"
         >
@@ -66,7 +66,12 @@ function App() {
             className="w-12 rounded-md mb-10 sm:hidden"
             loading="lazy"
           />
-          <p className="text-base/loose mb-10">
+          <p
+            className="text-base/loose mb-10"
+            data-aos="fade-up"
+            data-aos-duration="1000"
+            data-aos-delay="200"
+          >
             Hi, perkenalkan saya I Dewa Gede Mas Bagus Krisnanda, biasa
             dipanggil Krisna, saya adalah seorang Mahasiswa Semester 4 di
             Primakara University dan saya seorang Front End Developer dan
