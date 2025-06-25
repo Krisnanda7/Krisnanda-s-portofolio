@@ -56,7 +56,7 @@ function App() {
       {/* About Section */}
       <div className="tentang mt-32 py-10" id="tentang">
         <div
-          className="xl:w-2/3 lg:w-3/4 w-full mx-auto p-7 bg-zinc-800 rounded-lg"
+          className="xl:w-2/3 lg:w-3/4 w-full mx-auto p-7 bg-zinc-800 rounded-lg "
           data-aos="fade-up"
           data-aos-duration="1000"
         >

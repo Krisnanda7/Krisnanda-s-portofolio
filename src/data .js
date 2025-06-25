@@ -6,28 +6,28 @@ const Image = {
 
 export default Image;
 
-import Tools1 from "/assets/tools/vscode.png";
+import Tools1 from "/assets/tools/laravel.png";
 import Tools2 from "/assets/tools/reactjs.png";
 import Tools3 from "/assets/tools/nextjs.png";
 import Tools4 from "/assets/tools/tailwind.png";
 import Tools5 from "/assets/tools/bootstrap.png";
-import Tools12 from "/assets/tools/laravel.png";
 import Tools6 from "/assets/tools/js.png";
 import Tools7 from "/assets/tools/nodejs.png";
 import Tools8 from "/assets/tools/github.png";
-import Tools9 from "/assets/tools/ai.png";
-import Tools10 from "/assets/tools/canva.png";
+import Tools9 from "/assets/tools/php.png";
+import Tools10 from "/assets/tools/vscode.png";
 import Tools11 from "/assets/tools/figma.png";
-import Tools13 from "/assets/tools/php.png";
+import Tools12 from "/assets/tools/canva.png";
+import Tools13 from "/assets/tools/ai.png";
 import Tools14 from "/assets/tools/photoshop.png";
 
 export const listTools = [
   {
     id: 1,
-    gambar: Tools12,
+    gambar: Tools1,
     nama: "Laravel",
     ket: "PHP Framework",
-    dad: "1200",
+    dad: "100",
   },
   {
     id: 2,
@@ -80,17 +80,17 @@ export const listTools = [
   },
   {
     id: 9,
-    gambar: Tools13,
+    gambar: Tools9,
     nama: "Php",
     ket: "Language",
     dad: "900",
   },
   {
     id: 10,
-    gambar: Tools1,
+    gambar: Tools10,
     nama: "Visual Studio Code",
     ket: "Code Editor",
-    dad: "100",
+    dad: "1000",
   },
   {
     id: 11,
@@ -101,24 +101,24 @@ export const listTools = [
   },
   {
     id: 12,
-    gambar: Tools10,
+    gambar: Tools12,
     nama: "Canva",
     ket: "Design App",
-    dad: "1000",
+    dad: "1200",
   },
   {
     id: 13,
-    gambar: Tools9,
+    gambar: Tools13,
     nama: "Adobe Illustrator",
     ket: "Design App",
-    dad: "900",
+    dad: "1300",
   },
   {
     id: 14,
     gambar: Tools14,
     nama: "Photoshop",
     ket: "Design App",
-    dad: "1000",
+    dad: "1400",
   },
 ];
 
