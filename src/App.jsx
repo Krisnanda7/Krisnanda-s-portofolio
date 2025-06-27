@@ -71,9 +71,9 @@ function App() {
             data-aos-delay="200"
           >
             Hi, perkenalkan saya I Dewa Gede Mas Bagus Krisnanda, biasa
-            dipanggil Krisna, saya adalah seorang Mahasiswa Semester 4 di
-            Primakara University saya memiliki ketertarikan dalam bidang Web
-            Developer dan Designer tentunya saya sedang mendalami bidang
+            dipanggil Krisnanda, saya adalah seorang Mahasiswa aktif di
+            Primakara University, saya memiliki ketertarikan dalam bidang Web
+            Developer dan Designer, tentunya saya sedang mendalami bidang
             Programing dan Design, Saya percaya bahwa desain dan fungsionalitas
             harus berjalan beriringan, sehingga setiap proyek saya yang saya
             kerjakan tidak hanya terlihat menarik tetapi powerfull yang dapat
