@@ -141,7 +141,7 @@ export const listProyek = [
     id: 2,
     gambar: Proyek2,
     nama: "Website UMKM",
-    tools: ["HTML", "CSS", "Javascript", "AOS", "Boostrap"],
+    tools: ["HTML", "CSS", "Javascript", "Boostrap", "AOS"],
     dad: "300",
   },
   {
@@ -162,7 +162,7 @@ export const listProyek = [
     id: 5,
     gambar: Proyek5,
     nama: "Website Wedding Package",
-    tools: ["HTML", "Javascript", "Bootsrap", "Laravel", "Filament"],
+    tools: ["Laravel", "Javascript", "Bootsrap", "Filament"],
     dad: "600",
   },
   // {

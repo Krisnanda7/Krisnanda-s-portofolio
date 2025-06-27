@@ -20,11 +20,9 @@ function App() {
             />
             <q>Hasil yang indah lahir dari ketekunan🔥</q>
           </div>
-          <h1 className="text-5xl/tight font-bold mb-6">
-            Hi, Saya IDewa Gede Mas Bagus Krisnanda
-          </h1>
+          <h1 className="text-5xl/tight font-bold mb-6">Hi, Krisnanda</h1>
           <p className="text-base/loose mb-6 opacity-50">
-            Saya mempunya ketertarikan dalam bidang Programing dan Designer,
+            Saya mempunyai ketertarikan dalam bidang Programing dan Designer,
             terutama pada pembuatan Website dan Desain.
           </p>
           <div className="flex items-center sm:gap-4 gap-2">
@@ -74,12 +72,12 @@ function App() {
           >
             Hi, perkenalkan saya I Dewa Gede Mas Bagus Krisnanda, biasa
             dipanggil Krisna, saya adalah seorang Mahasiswa Semester 4 di
-            Primakara University dan saya seorang Front End Developer dan
-            Designer yang memiliki ketertarikan dalam bidang Programing dan
-            Design, Saya percaya bahwa desain dan fungsionalitas harus berjalan
-            beriringan, sehingga setiap proyek saya yang saya kerjakan tidak
-            hanya terlihat menarik tetapi powerfull yang dapat memberikan
-            pengalaman yang optimal untuk pengguna.
+            Primakara University saya memiliki ketertarikan dalam bidang Web
+            Developer dan Designer tentunya saya sedang mendalami bidang
+            Programing dan Design, Saya percaya bahwa desain dan fungsionalitas
+            harus berjalan beriringan, sehingga setiap proyek saya yang saya
+            kerjakan tidak hanya terlihat menarik tetapi powerfull yang dapat
+            memberikan pengalaman yang optimal untuk pengguna.
           </p>
           <div className="flex items-center justify-between">
             <img
