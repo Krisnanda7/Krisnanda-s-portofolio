@@ -20,7 +20,7 @@ function App() {
             />
             <q>Hasil yang indah lahir dari ketekunan🔥</q>
           </div>
-          <h1 className="text-5xl/tight font-bold mb-6">Hi, Krisnanda</h1>
+          <h1 className="text-5xl/tight font-bold mb-6">Hi, Saya Krisnanda</h1>
           <p className="text-base/loose mb-6 opacity-50">
             Saya mempunyai ketertarikan dalam bidang Programing dan Designer,
             terutama pada pembuatan Website dan Desain.
