@@ -12,8 +12,8 @@ import { inject } from "@vercel/analytics";
 import AOS from "aos";
 import "aos/dist/aos.css"; // You can also use <link> for styles
 // ..
-AOS.init();
 inject();
+AOS.init();
 
 createRoot(document.getElementById("root")).render(
   <React.StrictMode>
@@ -23,6 +23,5 @@ createRoot(document.getElementById("root")).render(
       <App />
       <Footer />
     </div>
-    <Analytics />
   </React.StrictMode>
 );
